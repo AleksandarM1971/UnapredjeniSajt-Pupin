@@ -1,0 +1,40 @@
+table {
+
+    display: table;
+    border-collapse: separate;
+    width: 70%;
+    position: relative;
+    left: 15%;
+    
+}
+
+tr {
+
+height: 40px;
+
+
+}
+
+tr.siva {
+
+    background-color: gray;
+
+}
+
+tr.snow {
+
+background-color: snow;
+
+}
+
+td {
+
+padding-left: 30px;
+
+}
+
+#heading {
+
+background-color: rgb(64, 133, 129);
+
+}

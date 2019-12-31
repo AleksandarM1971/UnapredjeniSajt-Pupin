@@ -1,0 +1,31 @@
+.books {
+
+    border-collapse: collapse;
+    width: 99.9%;
+    margin: 0, auto;
+    position: relative;
+    left: 0.1%;
+    font-size: 12px;
+ 
+}
+
+th {
+
+padding: 12px;
+
+}
+
+td {
+
+padding: 8px, 6px;
+
+
+}
+
+th,
+td {
+
+border: solid 1px #2c2a2a;
+
+
+}
